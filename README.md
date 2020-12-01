@@ -1,3 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chanciu&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+### a poor Android coder 👋
 
-an poor Android coder
+![](https://komarev.com/ghpvc/?username=chanciu)
+
+![](https://github-readme-stats.vercel.app/api?username=chanciu&show_icons=true&icon_color=199861&count_private=true)
