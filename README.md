@@ -1,4 +1,4 @@
-### a poor Android coder 👋
+#### A Passionate Android Developer 👋
 
 ---
 <div>
